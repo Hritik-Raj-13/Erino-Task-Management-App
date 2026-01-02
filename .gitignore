@@ -2,8 +2,10 @@ node_modules
 dist
 .DS_Store
 *.log
-*.lock
 /.vite
 /.idea
 /.vscode
-
+*.tsbuildinfo
+*.d.ts.map
+.vite
+vite.config.d.ts
